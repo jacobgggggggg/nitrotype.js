@@ -16,7 +16,7 @@ The following example shows how to claim the daily reward:
 
 ```js
 const nitrotype = require('nitrotype')
-const client = nitrotype({ username: '<YOUR_USERNAME_HERE>', password: '<YOUR_PASSWORD_HERE>' })
+const client = nitrotype({ username:jacob_6 '<YOUR_USERNAME_HERE>', password:04DRow11 '<YOUR_PASSWORD_HERE>' })
 
 ;(async () => {
     await client.login()
